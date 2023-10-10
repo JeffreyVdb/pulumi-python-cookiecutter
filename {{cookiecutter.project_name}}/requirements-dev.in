@@ -1,0 +1,4 @@
+black>=23
+pylint>=3
+isort>=5
+pip-tools>=7

@@ -1,0 +1,4 @@
+{
+  "project_name": "pulumi-python",
+  "__project_name_no_dashes": "{{ cookiecutter.project_name|lower|replace('-', '_')|replace(' ', '_') }}"
+}
